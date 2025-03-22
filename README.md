@@ -2,40 +2,26 @@
   <img width="100%" height="250px" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg" alt="cover" />
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=VisvaV;Data+Science+Student;Always+Learning+and+Building...&center=true&vCenter=true&size=32" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
+<h1 align="center">
   <a href="https://github.com/VisvaV">
-    <img src="https://komarev.com/ghpvc/?username=VisvaV&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=V̶i̶s̶v̶a̶V̶;AI+%7C+ML+%7C+Web+Tech;Data+Science+%7C+Software+Innovations" alt="Glitch Name" />
   </a>
-</p>
+</h1>
 
 ---
 
 ## 🚀 About Me  
 🎓 **Data Science Student** at PSG College of Technology  
 💡 Passionate about **AI, Machine Learning, Software Innovations, Web Technologies, and Data-Driven Decision Making**  
-📊 Exploring **AI/ML, Natural Language Processing, Scalable Data Structures, and Predictive Analytics**  
-🔍 Interested in **Optimization Algorithms, Time Series Forecasting, Big Data Processing, and Web Development**  
+📊 Exploring **AI/ML, Natural Language Processing, and Scalable Data Structures**  
+🔍 Interested in **Predictive Modeling, Web Development, Optimization Algorithms, and Big Data Processing**  
 
 ---
 
 ## 📫 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/visvav">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/VisvaV">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:visvafelix2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-visvafelix2005%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/visvav/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/VisvaV)  
+[![Email](https://img.shields.io/badge/Email-VisvaV%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:visvafelix2005@gmail.com)  
 
 ---
 
@@ -90,7 +76,4 @@ MS Office Suite (Word, Excel, PowerPoint)
 ---
 
 ### 🔥 **Fun Fact:**  
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
-</p>
 ⚡ "The best way to predict the future is to create it!"  
