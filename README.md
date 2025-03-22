@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=VisvaV;Data+Science+Student;AI+%7C+ML+%7C+Software+Innovations;Web+Technologies+%7C+Data+Structures;Always+Learning+and+Building...&center=true&vCenter=true&size=32" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=VisvaV;Data+Science+Student;Always+Learning+and+Building...&center=true&vCenter=true&size=32" alt="Typing SVG" />
   </a>
 </p>
 
@@ -91,6 +91,6 @@ MS Office Suite (Word, Excel, PowerPoint)
 
 ### 🔥 **Fun Fact:**  
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 </p>
 ⚡ "The best way to predict the future is to create it!"  
