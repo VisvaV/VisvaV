@@ -4,9 +4,13 @@
 
 <h1 align="center">
   <a href="https://github.com/VisvaV">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=V̶i̶s̶v̶a̶V̶;AI+%7C+ML+%7C+Web+Tech;Data+Science" alt="Matrix Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=VISVA;AI+%7C+ML+%7C+Web+Tech;Data+Science+Student" alt="Matrix Name" />
   </a>
 </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VisvaV&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
+</p>
 
 ---
 
@@ -21,7 +25,8 @@
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/visvav/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/VisvaV)  
-[![Email](https://img.shields.io/badge/Email-VisvaV%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:visvafelix2005@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/visva2005/)  
+[![Email](https://img.shields.io/badge/Email-visvafelix2005%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:visvafelix2005@gmail.com)  
 
 ---
 
