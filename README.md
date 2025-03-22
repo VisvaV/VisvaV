@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm VisvaV! 👋</h1>
+<div align="center">
+  <img width="100%" height="250px" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg" alt="cover" />
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j0eRJzyHejeLugMF04/giphy.gif" width="200" height="200"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=VisvaV;Data+Science+Student;AI+%7C+ML+%7C+Software+Innovations;Web+Technologies+%7C+Data+Structures;Always+Learning+and+Building...&center=true&vCenter=true&size=32" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
