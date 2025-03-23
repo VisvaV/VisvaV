@@ -48,7 +48,7 @@
 ## 🛠️ Technical Skills  
 
 ### 💻 Programming  
-C, C++, Python, MATLAB, Java, JavaScript  
+C, C++, Python, MATLAB, JavaScript  
 
 ### 📊 Data Analytics and Visualization  
 - **Data Visualization:** Power BI, Tableau  
@@ -59,7 +59,7 @@ C, C++, Python, MATLAB, Java, JavaScript
 - **Version Control:** Git, GitHub  
 
 ### 🗄️ Database Management  
-SQL, NoSQL  
+SQL 
 
 ### 🎨 Media and Content Creation  
 Photoshop, Lightroom, Adobe Premiere Pro  
