@@ -69,16 +69,5 @@ MS Office Suite (Word, Excel, PowerPoint)
 
 ---
 
-## 🏆 Soft Skills  
-
-✔ Leadership & Team Collaboration  
-✔ Creative & Analytical Thinking  
-✔ Problem-Solving & Decision-Making  
-✔ Time Management & Adaptability  
-✔ Strong Communication & Interpersonal Skills  
-✔ Solution-Oriented Approach & Professionalism  
-
----
-
 ### 🔥 **Fun Fact:**  
 ⚡ "The best way to predict the future is to create it!"  
