@@ -13,61 +13,41 @@
 </p>
 
 ---
-
-## 🚀 About Me  
-🎓 **Data Science Student** at PSG College of Technology  
-💡 Passionate about **AI, Machine Learning, Software Innovations, Web Technologies, and Data-Driven Decision Making**  
-📊 Exploring **AI/ML, Natural Language Processing, and Scalable Data Structures**  
-🔍 Interested in **Predictive Modeling, Web Development, Optimization Algorithms, and Big Data Processing**  
-
----
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/visvav/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/VisvaV)  
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/visva2005/)  
-[![Email](https://img.shields.io/badge/Email-visvafelix2005%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:visvafelix2005@gmail.com)  
+## Who I Am  
+I work where algorithms, systems, and structure converge.  
+I build models, systems, and workflows that learn, adapt, and scale.  
+Currently a Data Science student at PSG Tech — but the work speaks louder than the title.  
+Pattern recognition, system design, and computational thinking drive everything I do.
 
 ---
 
-## 📊 GitHub Stats  
+## Stack  
+C | C++ | Python | R | JavaScript | SQL | Flask | Power BI | Tableau | Git  
+TensorFlow | RAG | Vanilla Neural Nets | MLPs | MCP | NLP | LangChain | Applied AI
+
+---
+
+## Signals  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisvaV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VisvaV&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisvaV&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisvaV&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisvaV&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisvaV&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🛠️ Technical Skills  
-
-### 💻 Programming  
-C, C++, Python, MATLAB, JavaScript  
-
-### 📊 Data Analytics and Visualization  
-- **Data Visualization:** Power BI, Tableau  
-- **Statistical Analysis:** R, Python (Pandas, NumPy, Matplotlib, Seaborn)  
-
-### 🖥️ Software Development and Web Technologies  
-- **Web Development:** HTML, CSS, JavaScript, Flask  
-- **Version Control:** Git, GitHub  
-
-### 🗄️ Database Management  
-SQL 
-
-### 🎨 Media and Content Creation  
-Photoshop, Lightroom, Adobe Premiere Pro  
-
-### 📂 Productivity Tools  
-MS Office Suite (Word, Excel, PowerPoint)  
+## Links  
+[LinkedIn](https://www.linkedin.com/in/visvav/) •  
+[GitHub](https://github.com/VisvaV) •  
+[Instagram](https://www.instagram.com/visva2005/) •  
+[Email](mailto:visvafelix2005@gmail.com)
 
 ---
 
-### 🔥 **Fun Fact:**  
-⚡ "The best way to predict the future is to create it!"  
+Build. Break. Iterate. Repeat.
