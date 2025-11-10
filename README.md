@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/VisvaV">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=V I S V A;AI+%7C+ML+%7C+Web+Tech;Data+Science+Student" alt="Matrix Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=V+I+S+V+A;AI+%7C+ML+%7C+Web+Tech;Data+Science+Student" alt="Matrix Name" />
   </a>
 </h1>
 
